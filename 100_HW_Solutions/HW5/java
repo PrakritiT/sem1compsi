@@ -1,0 +1,1516 @@
+Script started on 2021-10-06 17:30:19+0000
+[?1034h[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ jv[Kava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : yes
+You have $100. How much would you like to wager? 50
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 2 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $150.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : ya
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : ya 
+You have $150. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 9 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $130.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $130. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 4 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $120.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $120. How much would you like to wager? 120
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 2 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 12 50
+You only have $100! Please enter a smaller number : 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 7 | 2 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 2 | 9 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $210.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $210. How much would you like to wager? 2
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 8 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $208.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $208. How much would you like to wager? 40
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 9 | 8 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $248.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $248. How much would you like to wager? 69
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 7 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $179.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $179. How much would you like to wager? 
+179
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 8 | 6 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $358.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 100
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 70  y
+You have $358. How much would you like to wager? 70
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 5 | 6 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $428.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $428. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 10 | 1 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $528.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $528. How much would you like to wager? 40
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 8 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $488.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $488. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 1 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $478.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $478. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 5 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $468.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $468. How much would you like to wager? 12
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 10 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $456.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $456. How much would you like to wager? 4
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 10 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $452.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $452. How much would you like to wager? 15
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 3 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $437.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $437. How much would you like to wager? 13
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 3 | 3 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $450.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $450. How much would you like to wager? 80
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 1 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $370.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $370. How much would you like to wager? 4
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 3 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $366.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $366. How much would you like to wager? 78
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 8 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $288.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $288. How much would you like to wager? 4
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 7 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $284.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $284. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 6 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $184.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $184. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 2 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $84.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $84. How much would you like to wager? 84
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 6 | 10 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ 
+[K[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 1 | 1 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 1 y
+You have $200. How much would you like to wager? 200
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 3 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 4 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ y[Kjava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 3 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ y[Kjava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 199  00
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 4 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ y [K[Kjava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 10 | 1 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 100
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 5 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $190.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $190. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 8 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $90.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $90. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 9 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $80.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $80. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 6 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $60.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $60. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 3 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $40.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $40. How much would you like to wager? 40
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 2 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ y[Kjava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 5 | 9 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y 
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 6 80
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 3 | 2 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $20.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $20. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 7 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $30.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $30. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 6 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $10.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $10. How much would you like to wager? 9
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 8 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $19.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $19. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 5 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $9.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $9. How much would you like to wager? 7
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 4 | 10 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $2.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $2. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 1 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $1.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $1. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 3 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 8 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ hja[K[K[Kh[Kjava starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 2 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 6 | 10 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 5 | 5 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 100
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 6 | 6 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $300.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 100   y
+You have $300. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 5 | 7 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $320.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $320. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 1 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $220.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $220. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 9 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $210.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $210. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 7 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 122
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 7 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $322.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $322. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 3 | 1 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $422.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y 
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 10
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $422. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 2 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $412.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $412. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 5 | 3 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $422.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $422. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 4 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $412.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $412. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 5 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $402.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $402. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 4 | 9 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $392.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $392. How much would you like to wager? 11
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 5 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $381.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $381. How much would you like to wager? 50
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 8 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $331.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $331. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 7 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $231.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $231. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 6 | 1 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $331.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 10  y
+You have $331. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 10 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $231.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $231. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 5 | 9 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $131.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $131. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 10 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $31.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $31. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 9 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $11.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $11. How much would you like to wager? 6
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 6 | 8 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $5.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $5. How much would you like to wager? 100
+You only have $5! Please enter a smaller number : 6
+You only have $5! Please enter a smaller number : 2
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 10 | 1 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $7.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 5
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $7. How much would you like to wager? 5
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 7 | 1 | 9 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $2.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $2. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 10 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $1.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $1. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 3 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 2 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 4 | 4 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : h y
+You have $200. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 6 | 4 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $100.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 50
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 5 | 3 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $50.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $50. How much would you like to wager? 25
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 3 | 2 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $75.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $75. How much would you like to wager? 45
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 6 | 1 | 9 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $30.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $30. How much would you like to wager? 12
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 5 | 9 | 2 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $18.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $18. How much would you like to wager? 6
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 7 | 7 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $24.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $24. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 7 | 2 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $4.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $4. How much would you like to wager? 10
+You only have $4! Please enter a smaller number : 2
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 3 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $2.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 1
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 1
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $2. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 4 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $1.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $1. How much would you like to wager? 1
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 9 | 2 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java startet
+Error: Could not find or load main class startet
+Caused by: java.lang.ClassNotFoundException: startet
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 5 | 9 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : 50
+That wasn't quite the correct answer. Try again.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 5-0  0
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 10 | 1 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $150.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $150. How much would you like to wager? -0
+Sneaky! No negatives or 0!
+Please enter a smaller number : y
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at starter.main(starter.java:40)
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ 5
+bash: 5: command not found
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ jave[Ka starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 1 | 9 | 6 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $0.
+--------------------------------------------------
+
+You've run out of money! Thanks for coming! Come back soon!
+[01;32mvoclabs[00m:[01;34m~/environment/TPoole22/100_HW_Solutions/HW5[00m (main) $ java starter
+Slot Machine Rules: 
+1. Each player starts with $100.
+2. Input a wager less than your total amount of money.
+3. The slot machine will roll 3 numbers from 1 to 10.
+   a. If two numbers match, you double your money.
+   b. If three numbers match, you triple your money.
+   c. If none match, you lose your money.
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $100. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 4 | 2 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $200.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $200. How much would you like to wager? 20
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 3 | 2 | 2 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $220.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $220. How much would you like to wager? 100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 9 | 10 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $320.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $320. How much would you like to wager? 5
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 5 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $315.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $315. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 9 | 4 |
+_______________________
+You won! You're wager has now been doubled!
+You now have $325.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $325. How much would you like to wager? 50
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 8 | 7 | 5 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $275.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $275. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 4 | 8 | 10 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $265.
+
+--------------------------------------------------
+
+Would you like to play the slots? (Yes/yes/Y/y) : y
+You have $265. How much would you like to wager? 10
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 2 | 9 | 7 |
+_______________________
+Didn't win this time, better luck next time!
+You now have $255.
+--------------
